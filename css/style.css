@@ -788,6 +788,20 @@ a:hover {
     .mobile-menu {
         display: flex;
     }
+    .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .content {
+        padding: 25px 10px;
+    }
+    .header-top__box {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .order-form-block {
+        margin-bottom: 20px;
+    }
 }
 
 @media (max-width:500px) {

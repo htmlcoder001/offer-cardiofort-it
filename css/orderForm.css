@@ -259,17 +259,12 @@
   #order_form input, #order_form select {
     width: 80%;
   }
-
-  #order_form {
-    margin-left: -10px;
-    margin-right: -10px;
+  #order_form input, #order_form select {
+    font-size: 16px;
   }
 }
 
 @media screen and (max-width: 349px) {
-  #order_form input, #order_form select {
-    font-size: 17px;
-  }
 
   #order_form button {
     margin-left: 0px;
